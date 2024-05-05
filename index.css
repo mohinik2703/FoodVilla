@@ -1,0 +1,50 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+.navitems > ul {
+  display: flex;
+  list-style-type: none;
+}
+
+.navitems ul > li {
+  padding: 10px;
+}
+
+.logo {
+  width: 100px;
+}
+.card {
+  width: 200px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+.card > img {
+  width: 100%;
+  height: 200px;
+}
+.restrauntList {
+  display: flex;
+  flex-wrap: wrap;
+}
+.body-top {
+  display: flex;
+  justify-content: space-between;
+}
+.login {
+  padding: 0 20;
+  cursor: pointer;
+}
+.shimmer-cont {
+  display: flex;
+  flex-wrap: wrap;
+}
+.shimmer-cards {
+  margin: 20px;
+  width: 200px;
+  height: 400px;
+  background-color: #f0f0f0;
+}

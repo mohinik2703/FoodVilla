@@ -1,0 +1,6 @@
+/.babelrc
+/.parcel-cache
+/.vscode
+/code.txt
+/dist
+/node_modules
